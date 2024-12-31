@@ -10,6 +10,7 @@ The **Spore Token Monitor** is a program designed to help you scrape token agent
 - Detect and display new tokens immediately.
 - Optional Telegram integration to send tokens to a specified contact.
 - Simple and intuitive graphical user interface (GUI).
+![Alt Text](./example.png)
 
 ---
 
