@@ -13,17 +13,19 @@ The **Spore Token Monitor** is a program designed to help you scrape token agent
 
 ---
 
+## Donations
+Feel free to donate at dev wallet: FMdSVjRigQaCpgFsaubGXscvvY7W7eWjz45cPsMptxUY
+
+---
+
 ## Requirements
-- **Operating System**: Windows.
-- **Internet Connection**: Required for fetching data and sending Telegram messages.
 - **Telegram Account**: Necessary if using the Telegram feature.
 
 ---
 
 ## Installation
 1. **Download the Executable**
-   - Obtain the `.exe` file from the repository or the provided link.
-
+   - Obtain the `.exe` file from the repository [Download Executable](./sporeScraper.exe)
 2. **Run the Program**
    - Double-click the executable to launch the application.
    - No additional installations are required.
@@ -74,10 +76,5 @@ The **Spore Token Monitor** is a program designed to help you scrape token agent
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 ## Contact
-For questions or support, feel free to reach out to the project maintainer.
+For questions or support, feel free to reach out to the project maintainer at javadeveloper1704@gmail.com
